@@ -29,7 +29,7 @@ using namespace std;
 
     int main() {
         // insert code here...
-        cout<< "Hello, World!\n";
+        cout<< "Hello, nice World!\n";
         return 0;
     }
 
